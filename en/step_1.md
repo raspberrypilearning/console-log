@@ -1,59 +1,14 @@
-## Introduction
+The `console.log()` method is used to output messages that tell you what the JavaScript code is doing.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can use `console.log()` for testing and debugging your code.
 
-### What you will make
+Most browsers will let you right click on a page and 'Inspect' an element. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+This opens developer tools, including the Console.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Some helpful keyboard shortcuts to open developer tools:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
++ Chrome: Ctrl + Shift + J (on Windows) or Cmd + Option + J (on a Mac)
++ Firefox: Ctrl + Shift + J (on Windows) or Cmd + Option + K (on a Mac)
++ Microsoft Edge: Control + Shift + I
++ Safari: First, enable the 'Develop menu'. To do this, click 'Safari' in the Mac menu bar and select 'Settings.' Click on 'Advanced', tick the checkbox next to 'Show features for web developers' and then close the window. You can now open the console using Cmd + Option + C.
